@@ -17,7 +17,7 @@
 
 ## 📋 Overview
 <p align="center">
-  <img src="assets/overview.jpg" alt="PocketDP3 Architecture" width="800"/>
+  <img src="assets/overview.jpg" alt="Variational Regularization Module" width="800"/>
   <br>
   <em>Variational Regularization Module</em>
 </p>
