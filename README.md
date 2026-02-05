@@ -121,14 +121,11 @@ Evaluation on the **RoboTwin 2.0** benchmark.
 If you find VR-DP3 useful for your research, please kindly cite our paper:
 
 ```bibtex
-@misc{zhang2026informationfilteringvariationalregularization,
-      title={Information Filtering via Variational Regularization for Robot Manipulation}, 
-      author={Jinhao Zhang and Wenlong Xia and Yaojia Wang and Zhexuan Zhou and Huizhe Li and Yichen Lai and Haoming Song and Youmin Gong and Jie Me},
-      year={2026},
-      eprint={2601.21926},
-      archivePrefix={arXiv},
-      primaryClass={cs.RO},
-      url={https://arxiv.org/abs/2601.21926}, 
+@article{zhang2026information,
+  title={Information Filtering via Variational Regularization for Robot Manipulation},
+  author={Zhang, Jinhao and Xia, Wenlong and Wang, Yaojia and Zhou, Zhexuan and Li, Huizhe and Lai, Yichen and Song, Haoming and Gong, Youmin and Me, Jie},
+  journal={arXiv preprint arXiv:2601.21926},
+  year={2026}
 }
 ```
 
